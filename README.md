@@ -1,4 +1,4 @@
-# n64-tron-style-colors
+# N64 Tron Style Color Variants
 
 I liked the simple style of single color input displays so I decided to make some variants 🤠
 
